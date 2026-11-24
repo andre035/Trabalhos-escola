@@ -1166,9 +1166,6 @@
             <mxPoint x="1160.0019999999997" y="349.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGI2TAVXCTwR0wAomd4i-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="695" y="267" as="geometry" />
-        </mxCell>
         <mxCell id="wGI2TAVXCTwR0wAomd4i-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Copia calendario" vertex="1">
           <mxGeometry height="30" width="60" x="1015" y="251" as="geometry" />
         </mxCell>
