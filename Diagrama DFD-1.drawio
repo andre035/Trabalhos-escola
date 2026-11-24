@@ -1154,9 +1154,6 @@
             <mxPoint x="969.25" y="221" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGI2TAVXCTwR0wAomd4i-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Lista uc" vertex="1">
-          <mxGeometry height="30" width="60" x="875" y="398" as="geometry" />
-        </mxCell>
         <mxCell id="wGI2TAVXCTwR0wAomd4i-54" edge="1" parent="1" style="endArrow=classic;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;entryX=0.109;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.338;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;libavoidRouting=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
